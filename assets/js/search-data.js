@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "WIP",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -487,7 +487,7 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Nikhil-Prabhu-4/", "_blank");
+          window.open("https://www.researchgate.net/profile/Nikhil-Prabhu-4/", "_blank");
         },
       },{
       id: 'light-theme',
